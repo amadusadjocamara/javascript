@@ -1,3 +1,4 @@
-let name;
-nama = ("amadu");
+var name= 'amadu';
 console.log(name);
+name = "nusa";
+console.log(name)
